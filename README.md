@@ -32,6 +32,7 @@ pip3 install -r requirements.txt
 
 ```
 
+
 ### 执行脚本前初始化账户信息
 
 初始化数据，将 env 替换为真实数据
