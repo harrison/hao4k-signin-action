@@ -50,3 +50,4 @@ sckey = os.environ["SERVERCHAN_SCKEY"]
 ### 运行
 
 python3 signin.py
+
